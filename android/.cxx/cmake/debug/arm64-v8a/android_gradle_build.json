@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/smarsu/tencent/projects/flutter_c_ptr/ios/Classes/c_ptr/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/smarsu/tencent/projects/android-sdk-macosx/cmake/3.6.4111459/bin/cmake --build /Users/smarsu/tencent/projects/flutter_c_ptr/android/.cxx/cmake/debug/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"c_ptr-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "c_ptr",
+			"buildCommand" : "/Users/smarsu/tencent/projects/android-sdk-macosx/cmake/3.6.4111459/bin/cmake --build /Users/smarsu/tencent/projects/flutter_c_ptr/android/.cxx/cmake/debug/arm64-v8a --target c_ptr",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/smarsu/tencent/projects/android-sdk-macosx/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smarsu/tencent/projects/android-sdk-macosx/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dc_ptr_EXPORTS  -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/smarsu/tencent/projects/flutter_c_ptr/ios/Classes/c_ptr/c_ptr.cc",
+					"workingDirectory" : "/Users/smarsu/tencent/projects/flutter_c_ptr/android/.cxx/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/arm64-v8a/libc_ptr.so",
+			"toolchain" : "13442194127159475407"
+		}
+	},
+	"toolchains" : 
+	{
+		"13442194127159475407" : 
+		{
+			"cCompilerExecutable" : "/Users/smarsu/tencent/projects/android-sdk-macosx/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/smarsu/tencent/projects/android-sdk-macosx/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

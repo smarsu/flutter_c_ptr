@@ -1,0 +1,14 @@
+Executable : /Users/smarsu/tencent/projects/android-sdk-macosx/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/smarsu/tencent/projects/flutter_c_ptr/ios/Classes/c_ptr
+-B/Users/smarsu/tencent/projects/flutter_c_ptr/android/.cxx/cmake/debug/x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/Users/smarsu/tencent/projects/android-sdk-macosx/ndk/20.0.5594570
+-DCMAKE_TOOLCHAIN_FILE=/Users/smarsu/tencent/projects/android-sdk-macosx/ndk/20.0.5594570/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/smarsu/tencent/projects/android-sdk-macosx/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

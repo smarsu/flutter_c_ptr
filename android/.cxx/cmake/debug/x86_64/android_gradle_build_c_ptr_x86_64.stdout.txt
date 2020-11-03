@@ -1,0 +1,1 @@
+[1/1] Linking CXX shared library /Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so

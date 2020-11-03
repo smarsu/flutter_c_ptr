@@ -1,0 +1,22 @@
+# ninja log v5
+0	38	0	CMakeFiles/c_ptr.dir/c_ptr.cc.o	9df647aedd27c7d8
+39	63	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+1	55	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+0	55	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+0	51	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+1	54	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+2	63	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+1	55	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+1	58	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+0	50	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+1	54	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+0	55	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+1	52	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+1	51	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+1	49	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+0	48	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+2	38	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+2	62	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+0	48	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+0	31	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
+0	29	0	/Users/smarsu/tencent/projects/flutter_smnet/example/build/flutter_c_ptr/intermediates/cmake/debug/obj/x86_64/libc_ptr.so	8f435fab5dd6ffe8
